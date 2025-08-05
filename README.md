@@ -13,5 +13,5 @@
 <p align="center">
 <a href=" ">< img src="https://img.shields.io/badge/GitHub-Maelic-blue?logo=github" /></a >
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-< img src="https://komarev.com/ghpvc/?username=Maelic&abbreviated=true&color=yellow" />
+< img src="https://komarev.com/ghpvc/?username=EpochHIT&abbreviated=true&color=yellow" />
 </p >
