@@ -4,15 +4,14 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=EpochHIT&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=EpochHIT&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=EpochHIT&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" /> -->
 <br/>
 
 
-<!-- https://github.com/badges/shields 
+<!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/EpochHIT"><img src="https://img.shields.io/badge/GitHub-EpochHIT-blue?logo=github" /></a>
-<!-- https://github.com/antonkomarev/github-profile-views-counter 
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=EpochHIT&abbreviated=true&color=yellow" />
 </p>
--->
