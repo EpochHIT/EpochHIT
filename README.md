@@ -9,10 +9,10 @@
 <br/>
 
 
-<!-- https://github.com/badges/shields -->
+<!-- https://github.com/badges/shields 
 <p align="center">
 <a href="https://github.com/EpochHIT"><img src="https://img.shields.io/badge/GitHub-EpochHIT-blue?logo=github" /></a>
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- https://github.com/antonkomarev/github-profile-views-counter 
 <img src="https://komarev.com/ghpvc/?username=EpochHIT&abbreviated=true&color=yellow" />
 </p>
 -->
